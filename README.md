@@ -8,7 +8,7 @@ I’m passionate about **Cybersecurity** and **Development**. Currently enhancin
 - 🌱 **Learning:** DSA, OWASP Certification
 - 💞️ **Collaborate On:** Cybersecurity workshops, development projects
 - 📫 **Contact:** [sandeshbramhane7884@gmail.com](mailto:sandeshbramhane7884@gmail.com)
-- 😄 **Pronouns:** []
+- 😄 **Pronouns:** [He/Him]
 - ⚡ **Fun Fact:** []
 
 ## Skills
